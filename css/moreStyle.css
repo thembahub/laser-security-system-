@@ -1,0 +1,20 @@
+#addUserIcon
+{
+    width: 80;
+    transition: 0.9s;
+}
+#addUserIcon:hover
+{
+    width: 85;
+    transition: 0.9s;
+}
+#pc
+{
+    transition: 0.9s;
+    width: 100px;
+}
+#pc:hover
+{
+    transition: 0.9;
+    width: 150px;
+}
